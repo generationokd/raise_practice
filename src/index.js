@@ -9,3 +9,7 @@ document.getElementById("app").innerHTML = `
   <p>TEST</p>
 </div>
 `;
+let test = 1;
+let test1 = 2;
+let test2 = test + test1;
+console.log(test2);
